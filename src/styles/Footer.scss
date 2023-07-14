@@ -1,0 +1,59 @@
+.container2 {
+  height: calc(100vh - 100px);
+  background-color: #222;
+  display: flex;
+  z-index: -1;
+}
+
+.itemfooter {
+  flex: 1;
+  position: relative;
+  display: flex;
+}
+
+.itemfooter:last-child {
+  flex: 2;
+  padding: 50px;
+  justify-content: space-between;
+}
+
+.cardfooter {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.titlefooter {
+  font-size: 18px;
+  color: #b7903c;
+}
+
+.textfooter {
+  color: lightgray;
+}
+
+.mottofooter {
+  color: rgb(211, 211, 211);
+}
+
+@media screen and (max-width: 480px) {
+  .container2 {
+    height: auto;
+    text-align: center;
+  }
+
+  .itemfooter:first-child {
+    display: none;
+  }
+
+  .itemfooter {
+    flex-direction: column;
+  }
+
+  .titlefooter {
+    font-size: 30px;
+  }
+
+  .textfooter {
+    font-size: 20px;
+  }
+}

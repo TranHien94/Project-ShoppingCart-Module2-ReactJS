@@ -1,0 +1,231 @@
+{
+  "buyerList": [
+    {
+      "name": "linh",
+      "email": "linh@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 7,
+      "avatar": "https://haycafe.vn/wp-content/uploads/2022/02/Hinh-anh-con-gai-cute-de-thuong-hoat-hinh.jpg",
+      "password": "123",
+      "cart": []
+    },
+    {
+      "name": "tuan",
+      "email": "l@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 6,
+      "password": "123",
+      "cart": []
+    },
+    {
+      "id": 3,
+      "name": "nguyên",
+      "email": "n@123",
+      "phoneNumber": "123",
+      "password": "123",
+      "block": false,
+      "avatar": "https://toigingiuvedep.vn/wp-content/uploads/2021/07/hinh-ve-co-gai-dang-yeu.jpg",
+      "cart": []
+    },
+    {
+      "name": "ngọc",
+      "email": "n@1",
+      "phoneNumber": "1",
+      "password": "1",
+      "block": false,
+      "avatar": "",
+      "cart": [],
+      "id": 4
+    },
+    {
+      "name": "trongkute",
+      "email": "t@123",
+      "phoneNumber": "123",
+      "block": false,
+      "id": 5
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "password": "123",
+      "isAdmin": true,
+      "firstName": "Tran",
+      "lastName": "Hien",
+      "email": "hien@gmail.com",
+      "avatar": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "password": "123",
+      "firstName": "Tran",
+      "lastName": "Hien",
+      "email": "hien@gmail.com",
+      "avatar": "",
+      "listProduct": [
+        {
+          "productId": 1,
+          "quantity": 5,
+          "picture": "https://assets.bonappetit.com/photos/5ca534485e96521ff23b382b/1:1/w_2700,h_2700,c_limit/chocolate-chip-cookie.jpg",
+          "title": "Cookie",
+          "price": [
+            18,
+            19,
+            20
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories.",
+          "type": "Cookie"
+        },
+        {
+          "productId": 10,
+          "quantity": 5,
+          "picture": "https://thecookiedoughdiaries.com/wp-content/uploads/2022/04/cookie-monster-cookies-feature.jpg",
+          "title": "Monster Cookie",
+          "price": [
+            20,
+            21,
+            22
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories.",
+          "type": "Cookie"
+        },
+        {
+          "productId": 100,
+          "quantity": 5,
+          "picture": "https://lilluna.com/wp-content/uploads/2022/12/spritz-cookies2-resize-7-500x375.jpg",
+          "title": "Spritz Cookie",
+          "price": [
+            20,
+            21,
+            22
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories.",
+          "type": "Cookie"
+        },
+        {
+          "productId": 1000,
+          "quantity": 5,
+          "picture": "https://www.simplyrecipes.com/thmb/n5B_bYXWicM8aM-SAe2trDtkveg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Peanut-Butter-Cookies-LEAD-05-e3caaf60a5624313b15b28d429c41d9c.jpg",
+          "title": "Peanut Butter Cookies",
+          "price": [
+            25,
+            26,
+            27
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories",
+          "type": "Cookie"
+        },
+        {
+          "productId": 2,
+          "quantity": 5,
+          "picture": "https://img.taste.com.au/hbNtzI2Q/taste/2021/08/clinkers-cake-173208-2.jpg",
+          "title": "Clinkers cake recipe",
+          "price": [
+            25,
+            26,
+            27
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories",
+          "type": "Cake"
+        },
+        {
+          "productId": 20,
+          "quantity": 5,
+          "picture": "https://stylesweet.com/wp-content/uploads/2022/06/ChocolateCakeForTwo_Featured.jpg",
+          "title": "Chocolate Cake",
+          "price": [
+            25,
+            26,
+            27
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories",
+          "type": "Cake"
+        },
+        {
+          "productId": 200,
+          "quantity": 5,
+          "picture": "https://www.theseasonedmom.com/wp-content/uploads/2021/04/ice-cream-sandwich-cake-featured.jpg",
+          "title": "Ice Cream Cake",
+          "price": [
+            12,
+            13,
+            14
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories",
+          "type": "Cake"
+        },
+        {
+          "productId": 3,
+          "quantity": 5,
+          "picture": "https://www.jocooks.com/wp-content/uploads/2018/11/cheesecake-1-22.jpg",
+          "title": "Cheesecake Recipe",
+          "price": [
+            15,
+            16,
+            17
+          ],
+          "description": "Handcrafted cakes, customizable sweetness, suitable for dieters. Each cake brings a sweet sensation and unforgettable memories",
+          "type": "Cheesecake"
+        },
+        {
+          "productId": 30,
+          "quantity": 5,
+          "picture": "https://juliemarieeats.com/wp-content/uploads/2023/02/Biscoff-Cheesecake-1.jpg",
+          "title": "Biscoff Cheesecake",
+          "price": [
+            18,
+            19,
+            20
+          ],
+          "description": "Unique handcrafted cakes, with customizable sweetness to suit your preferences. Indulge in every bite as a sweet adventure, bringing joy and happiness in every moment.",
+          "type": "Cheesecake"
+        },
+        {
+          "productId": 300,
+          "quantity": 5,
+          "picture": "https://www.seriouseats.com/thmb/Mykce8jNBk43y7fKyIjaPm2BB58=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__06__20170526-no-bake-cheesecake-vicky-wasik-18-89991c64ba544e19bc05c774c499438c.jpg",
+          "title": "Cheesecake Recipe",
+          "price": [
+            21,
+            22,
+            23
+          ],
+          "description": "Unique handcrafted cakes, with customizable sweetness to suit your preferences. Indulge in every bite as a sweet adventure, bringing joy and happiness in every moment.",
+          "type": "Cheesecake"
+        },
+        {
+          "productId": 3000,
+          "quantity": 5,
+          "picture": "https://data.thefeedfeed.com/static/2019/10/18/15714079765da9c868a459d.jpg",
+          "title": "Cheesecake Recipe",
+          "price": [
+            18,
+            19,
+            20
+          ],
+          "description": "Unique handcrafted cakes, with customizable sweetness to suit your preferences. Indulge in every bite as a sweet adventure, bringing joy and happiness in every moment.",
+          "type": "Cheesecake"
+        },
+        {
+          "productId": 30000,
+          "quantity": 5,
+          "picture": "https://b2564404.smushcdn.com/2564404/wp-content/uploads/2021/07/Mango-Cheesecake.jpg?lossy=0&strip=1&webp=1",
+          "title": "Mango Cheesecake",
+          "price": [
+            28,
+            29,
+            30
+          ],
+          "description": "Unique handcrafted cakes, with customizable sweetness to suit your preferences. Indulge in every bite as a sweet adventure, bringing joy and happiness in every moment.",
+          "type": "Cheesecake"
+        }
+      ]
+    }
+  ]
+}

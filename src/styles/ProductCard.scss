@@ -1,0 +1,42 @@
+.container-productcard {
+    width: 22%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    cursor: pointer;
+}
+
+.title-productcard {
+    font-size: 18px;
+    font-weight: bold;
+    color: #d1411e;
+}
+
+.price-productcard {
+    font-size: 18px;
+    font-weight: bold;
+    color: #666;
+}
+
+.desc-productcard {
+    text-align: center;
+    color: #777;
+}
+
+@media screen and (max-width: 480px) {
+    .container-productcard {
+        width: 100%;
+    }
+
+    .title-productcard {
+        font-size: 30px;
+    }
+
+    .price-productcard,
+    .desc-productcard {
+        font-size: 24px;
+    }
+}
